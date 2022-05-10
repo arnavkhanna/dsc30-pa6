@@ -2,7 +2,7 @@ import org.junit.Before;
 
 import static org.junit.Assert.*;
 
-class BSTreeTest {
+class BSTreeTester {
 
     BSTree tree1;
     BSTree tree2;
